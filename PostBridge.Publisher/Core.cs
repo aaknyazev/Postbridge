@@ -19,11 +19,6 @@ namespace PostBridge.Publisher
             _logger = logger;
         }
 
-        public void Start()
-        {
-
-        }
-
         public Task StartAsync(CancellationToken cancellationToken)
         {
             _logger.LogInformation("Publisher Service running.");
