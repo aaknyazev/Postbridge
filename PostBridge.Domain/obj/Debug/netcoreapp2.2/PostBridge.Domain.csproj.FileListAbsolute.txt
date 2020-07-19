@@ -1,0 +1,9 @@
+C:\Projects\RussiaPost\PostBridge\PostBridge.Domain\bin\Debug\netcoreapp2.2\PostBridge.Domain.deps.json
+C:\Projects\RussiaPost\PostBridge\PostBridge.Domain\bin\Debug\netcoreapp2.2\PostBridge.Domain.dll
+C:\Projects\RussiaPost\PostBridge\PostBridge.Domain\bin\Debug\netcoreapp2.2\PostBridge.Domain.pdb
+C:\Projects\RussiaPost\PostBridge\PostBridge.Domain\obj\Debug\netcoreapp2.2\PostBridge.Domain.csprojAssemblyReference.cache
+C:\Projects\RussiaPost\PostBridge\PostBridge.Domain\obj\Debug\netcoreapp2.2\PostBridge.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\RussiaPost\PostBridge\PostBridge.Domain\obj\Debug\netcoreapp2.2\PostBridge.Domain.AssemblyInfoInputs.cache
+C:\Projects\RussiaPost\PostBridge\PostBridge.Domain\obj\Debug\netcoreapp2.2\PostBridge.Domain.AssemblyInfo.cs
+C:\Projects\RussiaPost\PostBridge\PostBridge.Domain\obj\Debug\netcoreapp2.2\PostBridge.Domain.dll
+C:\Projects\RussiaPost\PostBridge\PostBridge.Domain\obj\Debug\netcoreapp2.2\PostBridge.Domain.pdb

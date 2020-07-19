@@ -1,0 +1,11 @@
+C:\Projects\RussiaPost\PostBridge\PostBridge.Reader\bin\Debug\netcoreapp2.2\PostBridge.Reader.deps.json
+C:\Projects\RussiaPost\PostBridge\PostBridge.Reader\bin\Debug\netcoreapp2.2\PostBridge.Reader.runtimeconfig.json
+C:\Projects\RussiaPost\PostBridge\PostBridge.Reader\bin\Debug\netcoreapp2.2\PostBridge.Reader.runtimeconfig.dev.json
+C:\Projects\RussiaPost\PostBridge\PostBridge.Reader\bin\Debug\netcoreapp2.2\PostBridge.Reader.dll
+C:\Projects\RussiaPost\PostBridge\PostBridge.Reader\bin\Debug\netcoreapp2.2\PostBridge.Reader.pdb
+C:\Projects\RussiaPost\PostBridge\PostBridge.Reader\obj\Debug\netcoreapp2.2\PostBridge.Reader.csprojAssemblyReference.cache
+C:\Projects\RussiaPost\PostBridge\PostBridge.Reader\obj\Debug\netcoreapp2.2\PostBridge.Reader.csproj.CoreCompileInputs.cache
+C:\Projects\RussiaPost\PostBridge\PostBridge.Reader\obj\Debug\netcoreapp2.2\PostBridge.Reader.AssemblyInfoInputs.cache
+C:\Projects\RussiaPost\PostBridge\PostBridge.Reader\obj\Debug\netcoreapp2.2\PostBridge.Reader.AssemblyInfo.cs
+C:\Projects\RussiaPost\PostBridge\PostBridge.Reader\obj\Debug\netcoreapp2.2\PostBridge.Reader.dll
+C:\Projects\RussiaPost\PostBridge\PostBridge.Reader\obj\Debug\netcoreapp2.2\PostBridge.Reader.pdb

@@ -1,0 +1,14 @@
+C:\Projects\RussiaPost\PostBridge\PostBridge.Infrastructure\bin\Debug\netcoreapp2.2\PostBridge.Infrastructure.deps.json
+C:\Projects\RussiaPost\PostBridge\PostBridge.Infrastructure\bin\Debug\netcoreapp2.2\PostBridge.Infrastructure.dll
+C:\Projects\RussiaPost\PostBridge\PostBridge.Infrastructure\obj\Debug\netcoreapp2.2\PostBridge.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projects\RussiaPost\PostBridge\PostBridge.Infrastructure\obj\Debug\netcoreapp2.2\PostBridge.Infrastructure.AssemblyInfoInputs.cache
+C:\Projects\RussiaPost\PostBridge\PostBridge.Infrastructure\obj\Debug\netcoreapp2.2\PostBridge.Infrastructure.AssemblyInfo.cs
+C:\Projects\RussiaPost\PostBridge\PostBridge.Infrastructure\obj\Debug\netcoreapp2.2\PostBridge.Infrastructure.csprojAssemblyReference.cache
+C:\Projects\RussiaPost\PostBridge\PostBridge.Infrastructure\bin\Debug\netcoreapp2.2\PostBridge.Infrastructure.runtimeconfig.json
+C:\Projects\RussiaPost\PostBridge\PostBridge.Infrastructure\bin\Debug\netcoreapp2.2\PostBridge.Infrastructure.runtimeconfig.dev.json
+C:\Projects\RussiaPost\PostBridge\PostBridge.Infrastructure\bin\Debug\netcoreapp2.2\PostBridge.Infrastructure.pdb
+C:\Projects\RussiaPost\PostBridge\PostBridge.Infrastructure\bin\Debug\netcoreapp2.2\PostBridge.Domain.dll
+C:\Projects\RussiaPost\PostBridge\PostBridge.Infrastructure\bin\Debug\netcoreapp2.2\PostBridge.Domain.pdb
+C:\Projects\RussiaPost\PostBridge\PostBridge.Infrastructure\obj\Debug\netcoreapp2.2\PostBridge.Infrastructure.csproj.CopyComplete
+C:\Projects\RussiaPost\PostBridge\PostBridge.Infrastructure\obj\Debug\netcoreapp2.2\PostBridge.Infrastructure.dll
+C:\Projects\RussiaPost\PostBridge\PostBridge.Infrastructure\obj\Debug\netcoreapp2.2\PostBridge.Infrastructure.pdb

@@ -1,0 +1,11 @@
+C:\Projects\RussiaPost\PostBridge\PostBridge.Publisher\bin\Debug\netcoreapp2.2\PostBridge.Publisher.deps.json
+C:\Projects\RussiaPost\PostBridge\PostBridge.Publisher\bin\Debug\netcoreapp2.2\PostBridge.Publisher.runtimeconfig.json
+C:\Projects\RussiaPost\PostBridge\PostBridge.Publisher\bin\Debug\netcoreapp2.2\PostBridge.Publisher.runtimeconfig.dev.json
+C:\Projects\RussiaPost\PostBridge\PostBridge.Publisher\bin\Debug\netcoreapp2.2\PostBridge.Publisher.dll
+C:\Projects\RussiaPost\PostBridge\PostBridge.Publisher\bin\Debug\netcoreapp2.2\PostBridge.Publisher.pdb
+C:\Projects\RussiaPost\PostBridge\PostBridge.Publisher\obj\Debug\netcoreapp2.2\PostBridge.Publisher.csprojAssemblyReference.cache
+C:\Projects\RussiaPost\PostBridge\PostBridge.Publisher\obj\Debug\netcoreapp2.2\PostBridge.Publisher.csproj.CoreCompileInputs.cache
+C:\Projects\RussiaPost\PostBridge\PostBridge.Publisher\obj\Debug\netcoreapp2.2\PostBridge.Publisher.AssemblyInfoInputs.cache
+C:\Projects\RussiaPost\PostBridge\PostBridge.Publisher\obj\Debug\netcoreapp2.2\PostBridge.Publisher.AssemblyInfo.cs
+C:\Projects\RussiaPost\PostBridge\PostBridge.Publisher\obj\Debug\netcoreapp2.2\PostBridge.Publisher.dll
+C:\Projects\RussiaPost\PostBridge\PostBridge.Publisher\obj\Debug\netcoreapp2.2\PostBridge.Publisher.pdb
