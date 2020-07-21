@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using PostBridge.Domain.Postmessage;
+using PostBridge.Infrastructure.Configurations;
 
 namespace PostBridge.Infrastructure.Contexts
 {
@@ -23,6 +24,11 @@ namespace PostBridge.Infrastructure.Contexts
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer(AppSettings.ConnectionMsSqlServerString);
+        }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.ApplyConfiguration(new PostmessageConfiguration());
         }
     }
 }
