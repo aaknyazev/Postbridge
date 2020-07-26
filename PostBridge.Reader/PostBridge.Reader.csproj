@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\PostBridge.Domain\PostBridge.Domain.csproj" />
+    <ProjectReference Include="..\PostBridge.Infrastructure\PostBridge.Infrastructure.csproj" />
     <ProjectReference Include="..\Postbridge.MessageBroker\Postbridge.MessageBroker.csproj" />
   </ItemGroup>
 
