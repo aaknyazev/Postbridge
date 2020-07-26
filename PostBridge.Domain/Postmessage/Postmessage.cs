@@ -11,5 +11,7 @@ namespace PostBridge.Domain.Postmessage
         public DateTime SentDate { get; set; }
 
         public PostmessageStatus Status { get; set; }
+
+        public DateTime ReceivedDate { get; set; }
     }
 }
