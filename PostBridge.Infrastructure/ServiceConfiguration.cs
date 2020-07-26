@@ -13,7 +13,7 @@ namespace PostBridge.Infrastructure
             return services.AddDbContext<PostBridgeMsSqlServerContext>(options => options.UseLazyLoadingProxies()
                     .UseSqlServer(AppSettings.ConnectionMsSqlServerString))
 
-            .AddScoped<IPostmessageRepository, PostmessageRepository>();
+            .AddSingleton<IPostmessageRepository, PostmessageRepository>();
         }
     }
 }

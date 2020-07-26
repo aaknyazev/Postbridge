@@ -1,4 +1,8 @@
-﻿using System;
+﻿using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Hosting;
+using Postbridge.MessageBroker;
+using PostBridge.Infrastructure;
+using System;
 
 namespace PostBridge.Reader
 {
@@ -6,7 +10,16 @@ namespace PostBridge.Reader
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            CreateHostBuilder(args).Build().Run();
         }
+
+        public static IHostBuilder CreateHostBuilder(string[] args) =>
+            Host.CreateDefaultBuilder(args).ConfigureServices((hostContext, services) =>
+            {
+                services.AddInfrastructure();
+                services.AddReader();
+                services.AddMessageBroker();
+                services.AddHostedService<Worker>();
+            });
     }
 }
