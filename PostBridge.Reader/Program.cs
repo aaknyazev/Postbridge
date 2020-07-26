@@ -2,7 +2,6 @@
 using Microsoft.Extensions.Hosting;
 using Postbridge.MessageBroker;
 using PostBridge.Infrastructure;
-using System;
 
 namespace PostBridge.Reader
 {
