@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PostBridge.Infrastructure",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PostBridge.Domain", "PostBridge.Domain\PostBridge.Domain.csproj", "{47CDD5D8-D2A1-4509-B141-E2C24667DCFC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostBridge.Publisher", "PostBridge.Publisher\PostBridge.Publisher.csproj", "{62654A9B-5BFC-4F52-A740-C14984FCF785}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PostBridge.Publisher", "PostBridge.Publisher\PostBridge.Publisher.csproj", "{62654A9B-5BFC-4F52-A740-C14984FCF785}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostBridge.Reader", "PostBridge.Reader\PostBridge.Reader.csproj", "{B6124D0E-7CED-4476-B09D-871C3402CB3E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PostBridge.Reader", "PostBridge.Reader\PostBridge.Reader.csproj", "{B6124D0E-7CED-4476-B09D-871C3402CB3E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Postbridge.MessageBroker", "Postbridge.MessageBroker\Postbridge.MessageBroker.csproj", "{0B04279E-8FCB-429D-BC22-81B4A0F00D8B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{B6124D0E-7CED-4476-B09D-871C3402CB3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6124D0E-7CED-4476-B09D-871C3402CB3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6124D0E-7CED-4476-B09D-871C3402CB3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B04279E-8FCB-429D-BC22-81B4A0F00D8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B04279E-8FCB-429D-BC22-81B4A0F00D8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B04279E-8FCB-429D-BC22-81B4A0F00D8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B04279E-8FCB-429D-BC22-81B4A0F00D8B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

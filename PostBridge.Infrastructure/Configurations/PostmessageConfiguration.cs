@@ -12,8 +12,9 @@ namespace PostBridge.Infrastructure.Configurations
             builder.Property(p => p.Id).UseIdentityColumn();
             builder.Property(p => p.Status).IsRequired();
             builder.Property(p => p.Message).HasColumnType("nvarchar(max)");
-            builder.Property(p => p.CreationDate).HasColumnType("timestamp");
-            builder.Property(p => p.SentDate).HasColumnType("timestamp");
+            builder.Property(p => p.CreationDate).HasColumnType("datetime");
+            builder.Property(p => p.SentDate).HasColumnType("datetime");
+            builder.Property(p => p.ReceivedDate).HasColumnType("datetime");
         }
     }
 }

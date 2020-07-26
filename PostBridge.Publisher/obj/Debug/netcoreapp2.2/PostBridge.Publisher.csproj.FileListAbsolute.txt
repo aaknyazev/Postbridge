@@ -11,3 +11,9 @@ C:\Projects\RussiaPost\PostBridge\PostBridge.Publisher\bin\Debug\netcoreapp2.2\P
 C:\Projects\RussiaPost\PostBridge\PostBridge.Publisher\bin\Debug\netcoreapp2.2\PostBridge.Infrastructure.pdb
 C:\Projects\RussiaPost\PostBridge\PostBridge.Publisher\bin\Debug\netcoreapp2.2\PostBridge.Domain.pdb
 C:\Projects\RussiaPost\PostBridge\PostBridge.Publisher\obj\Debug\netcoreapp2.2\PostBridge.Publisher.csproj.CopyComplete
+C:\Projects\RussiaPost\Postbridge\PostBridge.Publisher\bin\Debug\netcoreapp2.2\PostBridge.Publisher.pdb
+C:\Projects\RussiaPost\Postbridge\PostBridge.Publisher\obj\Debug\netcoreapp2.2\PostBridge.Publisher.dll
+C:\Projects\RussiaPost\Postbridge\PostBridge.Publisher\obj\Debug\netcoreapp2.2\PostBridge.Publisher.pdb
+C:\Projects\RussiaPost\Postbridge\PostBridge.Publisher\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Projects\RussiaPost\PostBridge\PostBridge.Publisher\bin\Debug\netcoreapp2.2\Postbridge.MessageBroker.dll
+C:\Projects\RussiaPost\PostBridge\PostBridge.Publisher\bin\Debug\netcoreapp2.2\Postbridge.MessageBroker.pdb

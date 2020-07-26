@@ -23,7 +23,7 @@ namespace PostBridge.Infrastructure.Contexts
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(AppSettings.ConnectionMsSqlServerString);
+            optionsBuilder.UseSqlServer(AppSettings.ConnectionMsSqlServerString, b => b.MigrationsAssembly("PostBridge.Publisher"));
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
